@@ -17,30 +17,60 @@ Python
 
 	Partial results produced by this research were published on a dedicated site [diplomovka.rbos.sk](http://diplomovka.rbos.sk). Some of the scripts used are available there. To browse available sourcecode(s), click "all articles" on the bottom of the page (or follow this [link](http://diplomovka.rbos.sk/?a=all)) and search the page for the keyword "sourcecode".
 
-
+	Uses: scientific python (numpy, scipy, matplotlib)
 
 *	[Dorgin fight simulator](https://github.com/radomirbosak/dorgin-fight-simulator)
+
+	Simulates fights in the game *Dračí Doupě* and displays the winning probability.
+
+	Uses: GUI (tkinter), threading
 
 	![dfs screenshot](https://raw.githubusercontent.com/radomirbosak/dorgin-fight-simulator/master/screenshot-dfs22-ubuntu.png)
 
 *	[Duden down](https://github.com/radomirbosak/duden-down)
 
+	Displays the meaning (or description) of german words.
+
+	Uses: HTML parser (BeautifulSoup)
+
 	![](https://raw.githubusercontent.com/radomirbosak/duden-down/master/screenshot.png)
 
 *	[FMFI tests](https://github.com/radomirbosak/fmfi-tests)
+
+	Static webpage (python webserver) collecting old tests from matfyz in Bratislava.
+
+	Uses: Web framework (bottle)
 
 	![](https://raw.githubusercontent.com/radomirbosak/fmfi-tests/master/scr.png)
 
 *	[Physics-inspired simulations](https://github.com/radomirbosak/fyzsim)
 
+	Various simulations based on physical models, done mostly as school projects.
+
+	Uses: scientific python (numpy, scipy, matplotlib)
+
 	![](https://raw.githubusercontent.com/radomirbosak/fyzsim/master/scr1.png)
 
 *	[SHMU extract](https://github.com/radomirbosak/shmu-extract)
+
+	Scrapes, stores and displays hourly temperatures (obtained from slovak weather forecast site shmu.sk).
+
+	Uses: HTML parser (BeautifulSoup), PHP, MySQL
 
 	![](https://raw.githubusercontent.com/radomirbosak/shmu-extract/master/scr-mobile.png)
 
 *	[Piecewise-linear functions](https://github.com/radomirbosak/plf)
 
+	Library which implements piecewise-linear real functions.
+
+	Uses: scientific python (numpy, matplotlib)
+
 	![](https://github.com/radomirbosak/plf/blob/master/scr.png)
 
 *	[Trends in slovak media](https://github.com/radomirbosak/trendy)
+
+	Group project done for the Summer school at [the Spot](http://www.thespot.sk/en) on 07/2015 - 08/2015
+
+	It crawls most visited slovak news sites (sme.sk, pravda.sk, hnonline.sk), parses their articles for keywords and display keyword statistics and word popularity trends.
+
+	Uses: Web framework ([pyramid](http://www.pylonsproject.org/)), HTML parser (BeautifulSoup), CSS, javascript
