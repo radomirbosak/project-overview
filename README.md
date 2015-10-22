@@ -86,7 +86,7 @@ Python
 
 *	<a name="trendy"></a>[Trends in slovak media](https://github.com/radomirbosak/trendy)
 
-	Group project done for the Summer school at [the Spot](http://www.thespot.sk/en) during summer 2013.
+	Group project (team of 3 people) done for the Summer school at [the Spot](http://www.thespot.sk/en) during summer 2013.
 
 	It crawls most visited slovak news sites (sme.sk, pravda.sk, hnonline.sk), parses their articles for keywords and display keyword statistics and word popularity trends.
 
