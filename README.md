@@ -3,6 +3,16 @@ Project overview
 
 This page serves as a gallery of my projects done mostly in python and displayed here on github.
 
+C
+--
+
+*	[Memory capacity](https://github.com/radomirbosak/c-memory-capacity)
+
+	A C implementation of the memory capacity function. Calculates the memory capacity of an echo-state network (a type of artificial neural network) as defined by Jeager (2001) in paper Short term memory in echo state networks.
+
+	Uses: GNU Scientific library, used to calculate [matrix pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_pseudoinverse).
+
+
 Assembler
 ---------
 
