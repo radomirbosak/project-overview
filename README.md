@@ -7,6 +7,11 @@ Assembler
 ---------
 
 *	[bfc - Brainfuck compiler](https://github.com/radomirbosak/bfc)
+
+	Compiler for the esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
+
+	Uses: Python, Shell script
+
 	![bfc screenshot](https://raw.githubusercontent.com/radomirbosak/bfc/master/screenshot.png)
 
 Python
@@ -69,7 +74,7 @@ Python
 
 *	[Trends in slovak media](https://github.com/radomirbosak/trendy)
 
-	Group project done for the Summer school at [the Spot](http://www.thespot.sk/en) on 07/2015 - 08/2015
+	Group project done for the Summer school at [the Spot](http://www.thespot.sk/en) during summer 2013.
 
 	It crawls most visited slovak news sites (sme.sk, pravda.sk, hnonline.sk), parses their articles for keywords and display keyword statistics and word popularity trends.
 
