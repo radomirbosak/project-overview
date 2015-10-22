@@ -36,6 +36,8 @@ Python
 
 	Uses: scientific python (numpy, scipy, matplotlib)
 
+	![A random graph used in my thesis](diplo-forget-ortho.png)
+
 *	<a name="dfs"></a>[Dorgin fight simulator](https://github.com/radomirbosak/dorgin-fight-simulator)
 
 	Simulates fights in the game *Dračí Doupě* and displays the winning probability.
