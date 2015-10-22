@@ -28,7 +28,7 @@ This page serves as a gallery of my projects done mostly in python and displayed
 
 Python
 ------
-*	<a name="thesis"></a>[My master's thesis](http://diplomovka.rbos.sk)
+*	<a name="thesis"></a>[My master's thesis](http://diplomovka.rbos.sk) (not a github link)
 
 	My master thesis is called *Computational analysis of memory capacity of an echo-state network*.
 
