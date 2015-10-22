@@ -3,27 +3,6 @@ Project overview
 
 This page serves as a gallery of my projects done mostly in python and displayed here on github.
 
-C
---
-
-*	[Memory capacity](https://github.com/radomirbosak/c-memory-capacity)
-
-	A C implementation of the memory capacity function. Calculates the memory capacity of an echo-state network (a type of artificial neural network) as defined by Jeager (2001) in paper Short term memory in echo state networks.
-
-	Uses: GNU Scientific library, used to calculate [matrix pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_pseudoinverse).
-
-
-Assembler
----------
-
-*	[bfc - Brainfuck compiler](https://github.com/radomirbosak/bfc)
-
-	Compiler for the esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
-
-	Uses: Python, Shell script
-
-	![bfc screenshot](https://raw.githubusercontent.com/radomirbosak/bfc/master/screenshot.png)
-
 Python
 ------
 *	[My master's thesis](http://diplomovka.rbos.sk)
@@ -89,3 +68,34 @@ Python
 	It crawls most visited slovak news sites (sme.sk, pravda.sk, hnonline.sk), parses their articles for keywords and display keyword statistics and word popularity trends.
 
 	Uses: Web framework ([pyramid](http://www.pylonsproject.org/)), HTML parser (BeautifulSoup), CSS, javascript
+
+
+Assembler
+---------
+
+*	[bfc - Brainfuck compiler](https://github.com/radomirbosak/bfc)
+
+	Compiler for the esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
+
+	Uses: Python, Shell script
+
+	![bfc screenshot](https://raw.githubusercontent.com/radomirbosak/bfc/master/screenshot.png)
+
+
+Java
+----
+
+*	[Pripomienkovac](https://github.com/radomirbosak/pripomienkovac)
+
+	An older java project used to store notes, search through them and remind future events. Programmed in [Netbeans IDE](https://netbeans.org/).
+
+	Uses: GUI (swing), MySQL
+
+C
+--
+
+*	[Memory capacity](https://github.com/radomirbosak/c-memory-capacity)
+
+	A C implementation of the memory capacity function. Calculates the memory capacity of an echo-state network (a type of artificial neural network) as defined by Jeager (2001) in his paper *Short term memory in echo state networks*.
+
+	Uses: GNU Scientific library, used to calculate [matrix pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_pseudoinverse).
