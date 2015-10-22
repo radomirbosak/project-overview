@@ -23,6 +23,9 @@ This page serves as a gallery of my projects done mostly in python and displayed
 **C**
 *	[Memory Capacity](#mcc)
 
+**PHP (+ HTML + SQL)**
+*	[Eidžof](#eidzof)
+
 Python
 ------
 *	<a name="thesis"></a>[My master's thesis](http://diplomovka.rbos.sk)
@@ -127,3 +130,14 @@ C
 	A C implementation of the memory capacity function. Calculates the memory capacity of an echo-state network (a type of artificial neural network) as defined by Jeager (2001) in his paper *Short term memory in echo state networks*.
 
 	Uses: GNU Scientific library, used to calculate [matrix pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_pseudoinverse).
+
+PHP (+ HTML + SQL)
+------------------
+
+*	<a name="eidzof"></a>[Eidžof](https://github.com/radomirbosak/eidzof)
+
+	Eidžof is an online turn-based strategy game written in `PHP`.
+
+	![eidzof screenshot](https://raw.githubusercontent.com/radomirbosak/eidzof/master/screenshot-hry_2009-10-4.png)
+
+	Uses: PHP, MySQL, HTML
