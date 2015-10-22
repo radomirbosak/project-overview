@@ -3,7 +3,7 @@ Project overview
 
 This page serves as a gallery of my projects done mostly in python and displayed here on github.
 
-Python
+**Python**
 *	[My master's thesis](#thesis)
 *	[Dorgin fight simulator](#dfs)
 *	[Duden down](#duden)
@@ -13,13 +13,13 @@ Python
 *	[Piecewise-linear functions](#plf)
 *	[Trends in slovak media](#trendy)
 
-Assembler
+**Assembler**
 *	[bfc - Brainfuck compiler](#bfc)
 
-Java
+**Java**
 *	[Pripomienkovac](#pripo)
 
-C
+**C**
 *	[Memory Capacity](#mcc)
 
 Python
