@@ -11,6 +11,13 @@ Assembler
 
 Python
 ------
+*	[My master's thesis](http://diplomovka.rbos.sk)
+
+	As part of my master's thesis, I conducted simulations on echo-state networks (a type of artificial neural network). These simulations were written as python scripts.
+
+	Partial results produced by this research were published on a dedicated site [diplomovka.rbos.sk](http://diplomovka.rbos.sk). Some of the scripts used are available there. To browse available sourcecode(s), click "all articles" on the bottom of the page (or follow this [link](http://diplomovka.rbos.sk/?a=all)) and search the page for the keyword "sourcecode".
+
+
 
 *	[Dorgin fight simulator](https://github.com/radomirbosak/dorgin-fight-simulator)
 
