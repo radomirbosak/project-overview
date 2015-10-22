@@ -15,6 +15,7 @@ This page serves as a gallery of my projects done mostly in python and displayed
 
 **Assembler**
 *	[bfc - Brainfuck compiler](#bfc)
+*	[print-dec](#printdec)
 
 **Java**
 *	[Pripomienkovac](#pripo)
@@ -100,6 +101,14 @@ Assembler
 
 	![bfc screenshot](https://raw.githubusercontent.com/radomirbosak/bfc/master/screenshot.png)
 
+
+*	<a name="printdec"></a>[print-dec](https://github.com/radomirbosak/print-dec)
+	
+	Prints a decimal representation of a number stored in `rax` register. 
+
+	Uses: `nasm` (netwide assembler)
+
+	![print-dec screenshot](https://raw.githubusercontent.com/radomirbosak/print-dec/master/screenshot.png)
 
 Java
 ----
