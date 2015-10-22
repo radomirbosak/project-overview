@@ -22,6 +22,7 @@ This page serves as a gallery of my projects done mostly in python and displayed
 
 **C**
 *	[Memory Capacity](#mcc)
+*	[Stolicka](#stolicka)
 
 **PHP (+ HTML + SQL)**
 *	[Eidžof](#eidzof)
@@ -134,6 +135,12 @@ C
 	A C implementation of the memory capacity function. Calculates the memory capacity of an echo-state network (a type of artificial neural network) as defined by Jeager (2001) in his paper *Short term memory in echo state networks*.
 
 	Uses: GNU Scientific library, used to calculate [matrix pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_pseudoinverse).
+
+*	<a name="stolicka"></a>[Stolička](https://github.com/radomirbosak/stolicka)
+
+	A `C` and `python` implementation of a solution of a simple [inverse kinematics problem](https://en.wikipedia.org/wiki/Inverse_kinematics). 
+
+	Uses: C (math.h), Python (built-in math functions)
 
 PHP (+ HTML + SQL)
 ------------------
