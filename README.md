@@ -4,8 +4,27 @@ Project overview
 This page serves as a gallery of my projects done mostly in python and displayed here on github.
 
 Python
+*	[My master's thesis](#thesis)
+*	[Dorgin fight simulator](#dfs)
+*	[Duden down](#duden)
+*	[FMFI tests](#fmfi)
+*	[Physics-inspired simulations](#fyzsim)
+*	[SHMU extract](#shmu)
+*	[Piecewise-linear functions](#plf)
+*	[Trends in slovak media](#trendy)
+
+Assembler
+*	[bfc - Brainfuck compiler](#bfc)
+
+Java
+*	[Pripomienkovac](#pripo)
+
+C
+*	[Memory Capacity](#mcc)
+
+Python
 ------
-*	[My master's thesis](http://diplomovka.rbos.sk)
+*	<a name="thesis"></a>[My master's thesis](http://diplomovka.rbos.sk)
 
 	As part of my master's thesis, I conducted simulations on echo-state networks (a type of artificial neural network). These simulations were written as python scripts.
 
@@ -13,7 +32,7 @@ Python
 
 	Uses: scientific python (numpy, scipy, matplotlib)
 
-*	[Dorgin fight simulator](https://github.com/radomirbosak/dorgin-fight-simulator)
+*	<a name="dfs"></a>[Dorgin fight simulator](https://github.com/radomirbosak/dorgin-fight-simulator)
 
 	Simulates fights in the game *Dračí Doupě* and displays the winning probability.
 
@@ -21,7 +40,7 @@ Python
 
 	![dfs screenshot](https://raw.githubusercontent.com/radomirbosak/dorgin-fight-simulator/master/screenshot-dfs22-ubuntu.png)
 
-*	[Duden down](https://github.com/radomirbosak/duden-down)
+*	<a name="duden"></a>[Duden down](https://github.com/radomirbosak/duden-down)
 
 	Displays the meaning (or description) of german words.
 
@@ -29,7 +48,7 @@ Python
 
 	![](https://raw.githubusercontent.com/radomirbosak/duden-down/master/screenshot.png)
 
-*	[FMFI tests](https://github.com/radomirbosak/fmfi-tests)
+*	<a name="fmfi"></a>[FMFI tests](https://github.com/radomirbosak/fmfi-tests)
 
 	Static webpage (python webserver) collecting old tests from matfyz in Bratislava.
 
@@ -37,7 +56,7 @@ Python
 
 	![](https://raw.githubusercontent.com/radomirbosak/fmfi-tests/master/scr.png)
 
-*	[Physics-inspired simulations](https://github.com/radomirbosak/fyzsim)
+*	<a name="fyzsim"></a>[Physics-inspired simulations](https://github.com/radomirbosak/fyzsim)
 
 	Various simulations based on physical models, done mostly as school projects.
 
@@ -45,7 +64,7 @@ Python
 
 	![](https://raw.githubusercontent.com/radomirbosak/fyzsim/master/scr1.png)
 
-*	[SHMU extract](https://github.com/radomirbosak/shmu-extract)
+*	<a name="shmu"></a>[SHMU extract](https://github.com/radomirbosak/shmu-extract)
 
 	Scrapes, stores and displays hourly temperatures (obtained from slovak weather forecast site shmu.sk).
 
@@ -53,7 +72,7 @@ Python
 
 	![](https://raw.githubusercontent.com/radomirbosak/shmu-extract/master/scr-mobile.png)
 
-*	[Piecewise-linear functions](https://github.com/radomirbosak/plf)
+*	<a name="plf"></a>[Piecewise-linear functions](https://github.com/radomirbosak/plf)
 
 	Library which implements piecewise-linear real functions.
 
@@ -61,7 +80,7 @@ Python
 
 	![](https://github.com/radomirbosak/plf/blob/master/scr.png)
 
-*	[Trends in slovak media](https://github.com/radomirbosak/trendy)
+*	<a name="trendy"></a>[Trends in slovak media](https://github.com/radomirbosak/trendy)
 
 	Group project done for the Summer school at [the Spot](http://www.thespot.sk/en) during summer 2013.
 
@@ -73,7 +92,7 @@ Python
 Assembler
 ---------
 
-*	[bfc - Brainfuck compiler](https://github.com/radomirbosak/bfc)
+*	<a name="bfc"></a>[bfc - Brainfuck compiler](https://github.com/radomirbosak/bfc)
 
 	Compiler for the esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
 
@@ -85,7 +104,7 @@ Assembler
 Java
 ----
 
-*	[Pripomienkovac](https://github.com/radomirbosak/pripomienkovac)
+*	<a name="pripo"></a>[Pripomienkovac](https://github.com/radomirbosak/pripomienkovac)
 
 	An older java project used to store notes, search through them and remind future events. Programmed in [Netbeans IDE](https://netbeans.org/).
 
@@ -94,7 +113,7 @@ Java
 C
 --
 
-*	[Memory capacity](https://github.com/radomirbosak/c-memory-capacity)
+*	<a name="mcc"></a>[Memory capacity](https://github.com/radomirbosak/c-memory-capacity)
 
 	A C implementation of the memory capacity function. Calculates the memory capacity of an echo-state network (a type of artificial neural network) as defined by Jeager (2001) in his paper *Short term memory in echo state networks*.
 
