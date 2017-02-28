@@ -37,6 +37,8 @@ Python
 
 	Partial results produced by this research were published on a dedicated site [diplomovka.rbos.sk](http://diplomovka.rbos.sk). Some of the scripts used are available there. To browse available sourcecode(s), click "all articles" on the bottom of the page (or follow this [link](http://diplomovka.rbos.sk/?a=all)) and search the page for the keyword "sourcecode".
 
+	Or even better, you can find all of these sources in the [optimizing-reservoir-esn](https://github.com/radomirbosak/optimizing-reservoir-esn) repository. They are quite unorganized however.
+
 	Uses: scientific python (numpy, scipy, matplotlib)
 
 	![A random graph used in my thesis](diplo-forget-ortho.png)
